@@ -1,4 +1,4 @@
-# Parcours "Vincent PHP"
+# Parcours " PHP"
 Parcours individualisé, permettant à l'apprenant de monter en compétence PHP.
 
 Basé principalement sur la programmation processuelle.
